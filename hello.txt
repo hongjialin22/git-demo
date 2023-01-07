@@ -11,11 +11,8 @@
   i love yuo
   i love yuo 
     很6
-<<<<<<< HEAD
-     5826
-=======
-     666  hot-fix text
 
->>>>>>> hot-git
+     5826
+     666  hot-fix text
 
 
